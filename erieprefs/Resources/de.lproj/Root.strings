@@ -1,0 +1,25 @@
+//
+//  Root.strings
+//  Erie
+//
+//  Created by Janik Schmidt on 14.07.19.
+//
+
+{
+	"ENABLED" = "Aktiviert";
+	"FEEDBACK_TYPES" = "Feedback-Art";
+	"FEEDBACK_TYPES_FOOTER" = "Einige Feedback-Arten sind möglicherweise nicht kompatibel mit iPhone X oder neuer";
+	
+	"HOME_BUTTON" = "Home-Taste";
+	"VOLUME_BUTTONS" = "Lautstärke-Tasten";
+	"SIDE_BUTTON" = "Seitentaste";
+	"MESA_BUTTON" = "Touch ID";
+	
+	"PROMINENT_HAPTICS_TITLE" = "Markante Haptik";
+	"PROMINENT_HAPTICS_DESCRIPTION" = "Markate Haptik löst eine stärkere Vibration beim Drücken einer Taste aus, ähnlich wie ein iPhone 7";
+	
+	"RESTART_SPRINGBOARD_TITLE" = "SpringBoard neu starten";
+	"RESTART_SPRINGBOARD_MESSAGE" = "Hiermit werden alle Änderungen gespeichert und das SpringBoard neu gestartet.";
+	"RESTART_SPRINGBOARD_CONFIRM" = "SpringBoard neu starten";
+	"RESTART_SPRINGBOARD_CANCEL" = "Abbrechen";
+}

@@ -1,0 +1,10 @@
+Package: ml.festival.erie
+Name: Erie
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Haptic feedback when pressing buttons. Inpspired by iPhone 7.
+Depiction: https://repo.festival.ml/depiction/ml.festival.erie
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Author: Sniper_GER <sniperger@festival.ml>
+Section: Tweaks

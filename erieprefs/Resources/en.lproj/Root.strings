@@ -1,0 +1,25 @@
+//
+//  Root.strings
+//  Erie
+//
+//  Created by Janik Schmidt on 14.07.19.
+//
+
+{
+	"ENABLED" = "Enabled";
+	"FEEDBACK_TYPES" = "Feedback Types";
+	"FEEDBACK_TYPES_FOOTER" = "Some types may not be compatible with iPhone X and later";
+	
+	"HOME_BUTTON" = "Home Button";
+	"VOLUME_BUTTONS" = "Volume Buttons";
+	"SIDE_BUTTON" = "Side Button";
+	"MESA_BUTTON" = "Touch ID";
+	
+	"PROMINENT_HAPTICS_TITLE" = "Prominent Haptics";
+	"PROMINENT_HAPTICS_DESCRIPTION" = "Prominent Haptics will fire a heavier vibration when pressing a button, similar to iPhone 7";
+	
+	"RESTART_SPRINGBOARD_TITLE" = "Restart SpringBoard";
+	"RESTART_SPRINGBOARD_MESSAGE" = "Restarting SpringBoard will apply all changed settings.";
+	"RESTART_SPRINGBOARD_CONFIRM" = "Restart SpringBoard";
+	"RESTART_SPRINGBOARD_CANCEL" = "Cancel";
+}
